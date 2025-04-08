@@ -8,6 +8,7 @@
 <VBox xmlns:fx="http://javafx.com/fxml/1">
 	<!-- TODO Add Nodes -->
 	<Label> "Manana Shaulov"</Label>
+	<Label> "Izzy Aroeti"</Label>
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
